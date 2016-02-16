@@ -1,7 +1,7 @@
 name: The Midnite Piddler
 favicon: null
-layout_spectrum: 0.2379227066412568
-typography_spectrum: 0.6611388761084527
+layout_spectrum: 1
+typography_spectrum: 0.59271
 title: The Midnite Piddler
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.94621576461941
-  lightness: 0.33024735911749303
-  saturation: 0.8484740541316569
-  rhythmicContrast: 0.09239525604061782
+    - '#000000'
+    - '#fdfdfd'
+    - '#acacab'
+    - '#858587'
+    - '#542d0f'
+  brandStrength: 0.875
+  lightness: 0.3125
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
